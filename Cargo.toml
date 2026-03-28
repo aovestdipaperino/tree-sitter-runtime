@@ -1,0 +1,16 @@
+[package]
+name = "tree-sitter-runtime"
+version.workspace = true
+authors = ["Enzo Lombardi <enzinol@gmail.com>"]
+edition.workspace = true
+rust-version.workspace = true
+description = "Rust-native runtime types for tree-sitter generated parsers"
+readme        = "README.md"
+homepage.workspace = true
+repository.workspace = true
+license.workspace = true
+keywords = ["incremental", "parsing"]
+categories = ["parsing"]
+
+[lints]
+workspace = true
